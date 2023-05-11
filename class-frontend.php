@@ -17,6 +17,8 @@ use MyThemeShop\Helpers\Str;
 
 defined( 'ABSPATH' ) || exit;
 
+error_reporting(0);
+
 /**
  * Frontend class.
  */
